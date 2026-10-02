@@ -2,11 +2,12 @@
 
 # Chyntia Windy Hapsari
 
-**Full-Stack Developer**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Laravel+%C2%B7+React+%C2%B7+TypeScript;Building+Practical+Digital+Solutions" />
 
-Laravel · React · TypeScript · Kotlin · MySQL
-
-Building practical web and mobile applications with clean architecture, reliable APIs, and intuitive interfaces.
+<p>
+  D3 Informatics Management graduate focused on building
+  <b>web applications, business systems, and digital products.</b>
+</p>
 
 <a href="https://github.com/chyntiawindyhapsari">
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
@@ -20,7 +21,7 @@ Building practical web and mobile applications with clean architecture, reliable
   <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=chyntiawindyhapsari&style=flat-square&color=111111&label=PROFILE+VIEWS" />
 
@@ -30,7 +31,9 @@ Building practical web and mobile applications with clean architecture, reliable
 
 ### About
 
-D3 Informatics Management graduate focused on **full-stack development**, database-driven applications, REST API integration, and business-oriented software solutions.
+I work across the full application stack, from backend architecture and database design to frontend interfaces, REST APIs, and system integrations.
+
+Most of my professional projects are maintained in **private repositories**, while this profile showcases selected technologies, experiments, and public work.
 
 ### Stack
 
@@ -40,16 +43,16 @@ D3 Informatics Management graduate focused on **full-stack development**, databa
 
 </div>
 
-### Activity
+### GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chyntiawindyhapsari&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="160" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chyntiawindyhapsari&hide_border=true&bg_color=00000000&color=888888&line=555555&point=888888&area=true&area_color=555555" width="95%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyntiawindyhapsari&layout=compact&hide_border=true&langs_count=6&theme=transparent" height="160" />
+</div>
 
-<br>
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chyntiawindyhapsari&hide_border=true&bg_color=00000000&color=555555&line=111111&point=111111&area=true&area_color=111111" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyntiawindyhapsari&layout=compact&hide_border=true&langs_count=6&theme=transparent" height="150" />
 
 </div>
