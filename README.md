@@ -67,16 +67,13 @@ Most of my professional work is maintained in **private repositories**, while th
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chyntiawindyhapsari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyntiawindyhapsari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=chyntiawindyhapsari&theme=tokyonight&hide_border=true&background=0d1117&border_radius=10" alt="GitHub streak" />
+
+<sub>Includes contributions from private repositories 🔒</sub>
 
 </div>
 
