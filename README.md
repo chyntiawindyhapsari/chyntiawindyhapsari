@@ -40,12 +40,11 @@ D3 Informatics Management graduate focused on **full-stack development**, databa
 
 ## Focus Areas
 
-| Area | Technologies |
-|---|---|
-| **Backend** | Laravel, PHP, REST API design |
-| **Database** | MySQL, relational modeling, query design |
-| **Frontend** | React, TypeScript, Tailwind CSS |
-| **Mobile** | Kotlin, Android Studio |
+<div align="align-left">
+
+<img src="assets/skills.svg" alt="Skill levels" />
+
+</div>
 
 ## Activity
 
