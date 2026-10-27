@@ -1,69 +1,37 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Chyntia Windy Hapsari, full-stack developer in Kediri, East Java" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,50:312e81,100:0e7490&section=header&text=Chyntia%20Windy%20Hapsari&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=58&descSize=17&descColor=cbd5e1&animation=twinkling" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=600&height=36&lines=Laravel+%C2%B7+React+%C2%B7+TypeScript;Kotlin+%C2%B7+MySQL+%C2%B7+REST+API;Building+practical+digital+solutions" alt="Typing animation" />
-
-<br>
-
-<a href="https://www.linkedin.com/in/chyntiawindyhapsari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:chyntiawindyh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://cyaaa-porto.site.je"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/chyntiawindyhapsari/">LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:chyntiawindyh@gmail.com">Email</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://cyaaa-porto.site.je">Portfolio</a>
+</p>
 
 ## About
 
-D3 Informatics Management graduate focused on **full-stack development**, database-driven applications, and REST API integration. Most of my work lives in **private repositories**; this profile shows selected public work and the tools I use.
+I build web and mobile applications that sit on top of solid databases. My work covers Laravel and React on the web, Kotlin on Android, and the REST APIs that connect them.
 
-<details>
-<summary><b>More details</b></summary>
-<br>
+I graduated with a D3 in Informatics Management from Politeknik Negeri Malang (Kediri campus). Most of my work lives in private repositories, so this profile shows the tools I use and the kind of problems I work on.
 
-| | |
-|---|---|
-| Working on | Web and mobile apps with Laravel, React, and Kotlin |
-| Learning | System integration, API design, clean architecture |
-| Based in | Kediri, East Java |
+## Tech stack
 
-</details>
+<img src="assets/stack.svg" width="100%" alt="Tech stack: PHP, Laravel, Node.js, REST API, MySQL, SQL, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Kotlin, Android Studio, Git, GitHub, Postman, VS Code" />
 
-## Tech Stack
+## What I work on
 
-<div align="center">
+<img src="assets/focus.svg" width="100%" alt="Focus areas: full-stack web, system integration, mobile" />
 
-<img src="assets/marquee.svg" width="100%" alt="Technologies" />
+## Experience
 
-<!-- <img src="https://skillicons.dev/icons?i=php,laravel,react,typescript,javascript,tailwind,kotlin,androidstudio,mysql,git,github,postman,vscode&perline=13&theme=dark" alt="Tech stack" /> -->
+| Period | Role |
+|:--|:--|
+| Jul&nbsp;2026&nbsp;–&nbsp;Oct&nbsp;2026 | **Web Developer (contract)**, PT Nusatama Jaya Sakti<br>Built a TypeScript ERP that integrates trading, clinic, laboratory and pharmacy operations. |
+| Jun&nbsp;2025&nbsp;–&nbsp;Dec&nbsp;2025 | **Web Developer (intern)**, PT Nusatama Jaya Sakti<br>Built web applications with PHP and React, finance and accounting modules, and a mobile app for education. |
+| Aug&nbsp;2023&nbsp;–&nbsp;Aug&nbsp;2026 | **D3 Informatics Management**, Politeknik Negeri Malang, Kediri campus |
 
-</div>
+## Get in touch
 
-## Focus Areas
-
-<div align="align-left">
-
-<img src="assets/skills.svg" alt="Skill levels" />
-
-</div>
-
-## Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=chyntiawindyhapsari&theme=tokyonight&hide_border=true&background=0d1117&border_radius=10" alt="GitHub streak" />
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chyntiawindyhapsari/chyntiawindyhapsari/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chyntiawindyhapsari/chyntiawindyhapsari/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/chyntiawindyhapsari/chyntiawindyhapsari/output/github-snake.svg" />
-</picture>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=chyntiawindyhapsari&style=flat-square&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0e7490,50:312e81,100:0f172a&section=footer&animation=twinkling" width="100%" />
-
-</div>
+I'm open to full-stack and web developer roles. The quickest way to reach me is [email](mailto:chyntiawindyh@gmail.com), or send a note on [LinkedIn](https://www.linkedin.com/in/chyntiawindyhapsari/).
