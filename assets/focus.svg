@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="145" viewBox="0 0 880 145" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t">
+<title id="t">Focus areas: full-stack web, system integration, mobile</title>
+<style>
+.ink{fill:#10303a}.sub{fill:#4d6a73}.card{fill:#f4f8f9;stroke:#cddadd}.chip{fill:#e1eef0}.chipt{fill:#17414d}.bar{fill:#2b8f8c}
+@media (prefers-color-scheme: dark){
+.ink{fill:#e8f2f4}.sub{fill:#97b0b7}.card{fill:#10242c;stroke:#244552}.chip{fill:#173440}.chipt{fill:#bfe8df}.bar{fill:#62c4b4}
+}
+</style>
+<rect class="card" x="0.5" y="0.5" width="276" height="144" rx="12"/><rect class="bar" x="22" y="24" width="28" height="3" rx="1.5"/><text class="ink" x="22" y="54" font-size="16" font-weight="700">Full-stack web</text><text class="sub" x="22" y="82" font-size="13.5">Laravel and React applications</text><text class="sub" x="22" y="103" font-size="13.5">backed by clean REST APIs and</text><text class="sub" x="22" y="124" font-size="13.5">well-structured relational databases.</text><rect class="card" x="301.5" y="0.5" width="276" height="144" rx="12"/><rect class="bar" x="323" y="24" width="28" height="3" rx="1.5"/><text class="ink" x="323" y="54" font-size="16" font-weight="700">System integration</text><text class="sub" x="323" y="82" font-size="13.5">ERP modules that connect finance,</text><text class="sub" x="323" y="103" font-size="13.5">accounting and daily operations into</text><text class="sub" x="323" y="124" font-size="13.5">one working system.</text><rect class="card" x="602.5" y="0.5" width="276" height="144" rx="12"/><rect class="bar" x="624" y="24" width="28" height="3" rx="1.5"/><text class="ink" x="624" y="54" font-size="16" font-weight="700">Mobile</text><text class="sub" x="624" y="82" font-size="13.5">Android apps built with Kotlin,</text><text class="sub" x="624" y="103" font-size="13.5">including work for the education</text><text class="sub" x="624" y="124" font-size="13.5">sector.</text>
+</svg>
