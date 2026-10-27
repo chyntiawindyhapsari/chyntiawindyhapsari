@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="44" viewBox="0 0 108 44" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-label="Email">
+<title>Email</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d3b4a"/><stop offset="1" stop-color="#0a2733"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="107" height="43" rx="12" fill="url(#g)" stroke="#2b8f8c" stroke-opacity=".55"/>
+<g transform="translate(18,13)"><rect x="0.9" y="2.6" width="16.2" height="12.8" rx="2.6" fill="none" stroke="#a5ecdc" stroke-width="1.8"/><path d="M2 4.6l7 5.2 7-5.2" fill="none" stroke="#a5ecdc" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="46" y="27.5" font-size="15" font-weight="700" fill="#f2f7f8">Email</text>
+</svg>
