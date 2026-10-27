@@ -3,22 +3,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chyntiawindyhapsari/">LinkedIn</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="mailto:chyntiawindyh@gmail.com">Email</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://cyaaa-porto.site.je">Portfolio</a>
+  <a href="https://www.linkedin.com/in/chyntiawindyhapsari/"><img src="assets/link-linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:chyntiawindyh@gmail.com"><img src="assets/link-email.svg" height="44" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://cyaaa-porto.site.je"><img src="assets/link-portfolio.svg" height="44" alt="Portfolio" /></a>
 </p>
 
 ## About
 
-I build web and mobile applications that sit on top of solid databases. My work covers Laravel and React on the web, Kotlin on Android, and the REST APIs that connect them.
+I build web and mobile applications that sit on top of solid databases. My work covers Laravel, Go and React on the web, Kotlin on Android, and the REST APIs that connect them, with PostgreSQL and MySQL underneath.
 
 I graduated with a D3 in Informatics Management from Politeknik Negeri Malang (Kediri campus). Most of my work lives in private repositories, so this profile shows the tools I use and the kind of problems I work on.
 
 ## Tech stack
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack: PHP, Laravel, Node.js, REST API, MySQL, SQL, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Kotlin, Android Studio, Git, GitHub, Postman, VS Code" />
+<img src="assets/stack.svg" width="100%" alt="Tech stack: PHP, Laravel, Go, Node.js, REST API, PostgreSQL, MySQL, SQL, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Kotlin, Android Studio, Git, GitHub, Postman, VS Code" />
 
 ## What I work on
 
